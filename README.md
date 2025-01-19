@@ -17,7 +17,7 @@ Hello! I’m Ranjith, a dedicated DevOps enthusiast on a mission to deepen my ex
 - **Cloud Platforms:** AWS, Azure
  
 ## 🌐 Let's Connect
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/ranjithnayyadurai)!
+Feel free to connect with me on [LinkedIn](http://www.linkedin.com/in/ranjithnayyadurai)!
  
 ## 📫 Get in Touch
 I’d love to hear from you! Reach out via email at [ranjithayyadurai@gmail.com](mailto:ranjithayyadurai@gmail.com).
